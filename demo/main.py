@@ -1,7 +1,7 @@
 # main.py
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
-from Modelo_ML import app as modelo_app  # Tu app de ML
+from .Modelo_ML import app as modelo_app
 
 app = FastAPI()
 
