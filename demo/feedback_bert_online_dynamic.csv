@@ -1,0 +1,6 @@
+comentario,tipo_pred,palabra_pred,tipo_real,palabra_real,feedback
+No hubo atencion,Malo,confusa,Malo,Otro,mal
+No hubo atencion,Malo,Otro,Malo,Otro,mal
+No hubo atencion,Malo,creatividad,Bueno,Otro,mal
+No hubo atencion,Bueno,Otro,Malo,Otro,mal
+No hubo atencion,Bueno,Otro,Malo,Otro,mal

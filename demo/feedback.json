@@ -1,0 +1,117 @@
+[
+  {
+    "comentario": "Producto de mala calidad",
+    "tipo": "Malo",
+    "palabra_clave": "producto"
+  },
+  {
+    "comentario": "Mal servicio",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Mal servicio",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "producto mala calidad",
+    "tipo": "Malo",
+    "palabra_clave": "producto"
+  },
+  {
+    "comentario": "Servicio pesimo",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "servicio de mala calidad",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Buen servicio y buena atencion",
+    "tipo": "Bueno",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Buen servicio y buena atencion",
+    "tipo": "Bueno",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Mal servicio y mala atencion",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Buen servicio y buena atencion",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Buen servicio y buena atencion",
+    "tipo": "Bueno",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Buen servicio y buena atencion",
+    "tipo": "Bueno",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "mal servicio y mala atencion",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "No hubo buena atencion",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "buena atencion por parte del personal",
+    "tipo": "Bueno",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "mal servicio",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Mal personal",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "mal personal",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "mal personal",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "mal personal",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "buen personal",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  },
+  {
+    "comentario": "Mal comentario",
+    "tipo": "Malo",
+    "palabra_clave": "diseño"
+  },
+  {
+    "comentario": "Personas groseras",
+    "tipo": "Malo",
+    "palabra_clave": "servicio"
+  }
+]
